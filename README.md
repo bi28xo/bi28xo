@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm currently working on a series of projects and assignments for my second year in University
-Fun fact: There is no Fun Fact! Only depressing facts which I am not comfortable sharing with other people
+###I'm currently working on a series of projects and assignments for my second year in University
+###Fun fact: There is no Fun Fact! Only depressing facts which I am not comfortable sharing with other people
 
 <!--
 **bi28xo/bi28xo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
